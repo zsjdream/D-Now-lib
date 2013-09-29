@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>libadc12/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>288</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1216</ColumnWidth1><ColumnWidth2>324</ColumnWidth2><ColumnWidth3>81</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1622</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12935-19914</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>libadc12</ExpandedNode><ExpandedNode>libadc12/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-12251-1589</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-14418-29856</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\testmain.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1187</SelStart><SelEnd>1216</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\jls_adc12_api.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>3672</SelStart><SelEnd>3672</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\jls_adc12_api.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1563</SelStart><SelEnd>1563</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\jls_common.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>628</SelStart><SelEnd>628</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\jls_common.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1863</SelStart><SelEnd>1863</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\jls_common_api.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00a9ae90><key>iaridepm.enu1</key></Toolbar-00a9ae90></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>661</Bottom><Right>362</Right><x>-2</x><y>-2</y><xscreen>346</xscreen><yscreen>279</yscreen><sizeHorzCX>205952</sizeHorzCX><sizeHorzCY>284114</sizeHorzCY><sizeVertCX>216667</sizeVertCX><sizeVertCY>675153</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>277</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>279</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>284114</sizeHorzCY><sizeVertCX>205952</sizeVertCX><sizeVertCY>284114</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
